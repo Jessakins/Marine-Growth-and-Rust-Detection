@@ -2,7 +2,7 @@
 
 INSTRUCTIONS:
 - Gather and Label images
-- Create folder named "train" for dataset
+- Create folder named "train_datav4" for dataset
 - Set up the directory structure
 - Select the Hardware Accelerator (GPU)
 - Clone the yolov5 repository
