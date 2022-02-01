@@ -2,7 +2,7 @@
 
 INSTRUCTIONS:
 - Gather and Label images
-- Create folder named "train_datav4" for dataset
+- Create folder named "train" for dataset
 - Set up the directory structure
 - Select the Hardware Accelerator (GPU)
 - Clone the yolov5 repository
@@ -13,3 +13,5 @@ INSTRUCTIONS:
 - Add customized file as custom_data.yaml in data folder
 - Train the Model (YOLOv5s)
 - From 0.48 maP to 0.92 maP (progress)
+
+Note: The ZIP file - https://drive.google.com/file/d/1zhg2RXmMsBHWwJQkyQBZQJN8j2LvwKwP/view?usp=sharing
